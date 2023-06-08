@@ -6,7 +6,14 @@
 - Placa de Vídeo #1:GeForce GTX 1070 Ti
 - Placa de Vídeo #2:UHD Intel® 630
 - Placa de Rede:Intel Ethernet I219-V
+
 -- BCM4360 802.11ac Wireless Network Adapter
+
+
+https://github.com/mateusangelo/CRIANDO-EFI-OPENCORE-DESKTOP-INTEL-COM-OCAT
+
+
+https://github.com/ic005k/OCAuxiliaryTools/releases
 
 
 
