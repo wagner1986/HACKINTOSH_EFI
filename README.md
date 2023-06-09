@@ -9,6 +9,9 @@
 
 -- BCM4360 802.11ac Wireless Network Adapter
 
+template : Desktop_10thGen_Comet_Lake_iMac20,1.plist
+Para Vídeo Integrado Manter:
+DeviceProperties -> PciRoot(0x0)/Pci(0x2,0x0) -> AAPL,ig-platform-id = 07009B3E
 
 https://github.com/mateusangelo/CRIANDO-EFI-OPENCORE-DESKTOP-INTEL-COM-OCAT
 
